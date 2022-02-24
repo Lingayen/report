@@ -278,4 +278,7 @@ button.btn-contact {
 	  -webkit-border-radius:190px; 
 	  border-radius:190px;
   }
+.mb-5{
+  margin-bottom: 5rem;
+}
 /* /simple contact form */
